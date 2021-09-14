@@ -127,7 +127,7 @@ public class Toolbox {
     /**
      * Find the smallest difference in a list of numbers.
      *
-     * @return biggest gap
+     * @return smallest gap
      */
     public double getSmallestGap(Double[] array) throws Exception {
         // if the array has only one element
@@ -223,7 +223,7 @@ public class Toolbox {
      * Removes duplicates from an array, without changing the order.
      *
      * @param intArray table to be processed
-     * @return table processed
+     * @return table without duplicates
      */
     public int[] removeDouble(int[] intArray) {
         List<Integer> list = new ArrayList<>();
@@ -240,7 +240,7 @@ public class Toolbox {
      *
      * @param word1 first word
      * @param word2 second word
-     * @return return true if words are anagram
+     * @return return true if two words are anagrams
      */
     public boolean isAnagram(String word1, String word2) {
         String[] arrWord1 = word1.split("");

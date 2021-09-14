@@ -6,8 +6,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Classes which allows which groups together a set of functions
- * that can be useful in my developments and in my technical tests
+ * Class which contains a set of functions that can be useful in development and in technical tests.
  */
 public class Toolbox {
 

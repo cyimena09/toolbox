@@ -206,7 +206,7 @@ public class Toolbox {
         return array[index];
     }
 
-    public void boxSorterCodingGame(int width, int height, int length, int mass) {
+    public void boxSorter(int width, int height, int length, int mass) {
         // todo finish this shit
         int volume = width * height * length;
         if (volume >= 1000) {
@@ -237,7 +237,7 @@ public class Toolbox {
     }
 
     /**
-     * Verify if two words are anagram
+     * Verify if two words are anagrams
      *
      * @param word1 first word
      * @param word2 second word

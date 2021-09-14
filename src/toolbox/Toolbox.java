@@ -11,7 +11,7 @@ import java.util.List;
 public class Toolbox {
 
     /**
-     * Sorts a string in ascending alphabetical order
+     * Sorts a string in ascending alphabetical order.
      *
      * @param letters word to sort
      * @return string sorted
@@ -23,7 +23,7 @@ public class Toolbox {
     }
 
     /**
-     * Returns true if both strings are anagrams
+     * Returns true if both strings are anagrams.
      *
      * @param string1 first word
      * @param string2 second word
@@ -41,7 +41,7 @@ public class Toolbox {
     }
 
     /**
-     * Allows to sort an array of numbers in ascending order
+     * Allows to sort an array of numbers in ascending order.
      *
      * @param ArrayNumbers array to sort
      */
@@ -51,7 +51,7 @@ public class Toolbox {
     }
 
     /**
-     * Allows you to sort an array of numbers in descending order
+     * Allows you to sort an array of numbers in descending order.
      *
      * @param ArrayNumbers array to sort
      */
@@ -61,7 +61,7 @@ public class Toolbox {
     }
 
     /**
-     * Returns the biggest number in an array
+     * Returns the biggest number in an array.
      *
      * @param array table to process
      * @return biggest number
@@ -81,7 +81,7 @@ public class Toolbox {
     }
 
     /**
-     * Returns the smallest number in an array
+     * Returns the smallest number in an array.
      *
      * @param array table to process
      * @return smallest number
@@ -101,7 +101,7 @@ public class Toolbox {
     }
 
     /**
-     * Find the greatest difference between the numbers in the table
+     * Find the greatest difference between the numbers in the table.
      *
      * @return biggest gap
      */
@@ -125,7 +125,7 @@ public class Toolbox {
     }
 
     /**
-     * Find the smallest difference in a list of numbers
+     * Find the smallest difference in a list of numbers.
      *
      * @return biggest gap
      */
@@ -167,7 +167,7 @@ public class Toolbox {
     }
 
     /**
-     * Returns the value closest to closest to zero
+     * Returns the value closest to closest to zero.
      *
      * @param target value to which we must find the closest
      * @param array  numbers array
@@ -220,7 +220,7 @@ public class Toolbox {
     }
 
     /**
-     * Removes duplicates from an array, without changing the order
+     * Removes duplicates from an array, without changing the order.
      *
      * @param intArray table to be processed
      * @return table processed
@@ -236,7 +236,7 @@ public class Toolbox {
     }
 
     /**
-     * Verify if two words are anagrams
+     * Verify if two words are anagrams.
      *
      * @param word1 first word
      * @param word2 second word
